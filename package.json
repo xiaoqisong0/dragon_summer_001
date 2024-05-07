@@ -1,0 +1,27 @@
+{
+  "name": "dragon_summer",
+  "version": "1.0.0",
+  "description": "夏天的冷笑话",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoqisong0/dragon_summer_001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoqisong0/dragon_summer_001/issues"
+  },
+  "homepage": "https://github.com/xiaoqisong0/dragon_summer_001#readme",
+  "dependencies": {
+    "dragon_awakening_of_insects": "^1.0.1",
+    "dragon_lucky_words": "^1.0.4",
+    "dragon_rain": "^1.0.7",
+    "dragon_spring_equinox": "^1.0.2",
+    "jquery": "^3.7.1"
+  }
+}
